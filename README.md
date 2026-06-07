@@ -46,11 +46,10 @@ My interests lie at the intersection of systems programming and real-time 3D app
 
 ### Molecule Viewer 🔬
 
-Interactive desktop application for real-time visualization of molecular structures.
-
 <p align="center">
   <img src="MoleculeViewer.png" alt="Molecule Viewer screenshot" width="700">
 </p>
+Interactive desktop application for real-time visualization of molecular structures.
 
 **Tech Stack:** Unity, C#, RDKit, .NET, PubChem API
 
