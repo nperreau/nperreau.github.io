@@ -47,7 +47,7 @@ I'll uncomment that when the public github-readme-stats.vercel.app deployment wi
 
 ## 💻 Featured Project
 
-### Molecule Viewer 🔬
+### [Molecule Viewer 🔬](https://github.com/nperreau/MoleculeViewer)
 
 <p align="center">
   <img src="MoleculeViewer.png" alt="Molecule Viewer screenshot" width="700">
