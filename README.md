@@ -18,14 +18,17 @@ My interests lie at the intersection of systems programming and real-time 3D app
 - 🌱 **Exploring:** Software architecture, performance optimization, parallel programming, and cheminformatics.
 - ⚡ **Philosophy:** Build clean, decoupled systems first; optimize bottlenecks where performance actually matters.
 
----
-
+<!--
+I'll uncomment that when the public github-readme-stats.vercel.app deployment will be back up.
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nperreau&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nperreau&layout=compact&hide_border=true" />
 </p>
+
+---
+-->
 
 ---
 
