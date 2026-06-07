@@ -50,7 +50,7 @@ I'll uncomment that when the public github-readme-stats.vercel.app deployment wi
 ### [Molecule Viewer 🔬](https://github.com/nperreau/MoleculeViewer)
 
 <p align="center">
-  <img src="MoleculeViewer.png" alt="Molecule Viewer screenshot" width="700">
+  <img src="molecule_viewer.png" alt="Molecule Viewer screenshot" width="700">
 </p>
 Interactive desktop application for real-time visualization of molecular structures.
 
